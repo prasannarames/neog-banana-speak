@@ -1,0 +1,10 @@
+textarea {
+    width: 90%;
+    display: block;
+    padding: 10px 10px ;
+}
+
+button {
+    padding: 10px 10px;
+    margin-top: 10px;
+}
